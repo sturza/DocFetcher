@@ -13,7 +13,7 @@
 # * Clear or delete the entire file to restore all default
 #   values.
 #
-# Thu Apr 09 22:24:51 CEST 2020
+# Thu Apr 09 22:30:58 CEST 2020
 
 # Boolean entries. Allowed values: true, false
 ShowManualOnStartup = true
@@ -62,9 +62,9 @@ LuceneAnalyzer = 0
 # Comma-separated lists of integers.
 PreviewHighlighting = 255, 255, 0
 Hotkey = 262144, 16777233
-FilterSash = 500, 500
+FilterSash = 1, 1
 RightSashHorizontal = 1, 1
-RightSashVertical = 500, 500
+RightSashVertical = 1, 1
 
 # Comma-separated lists of sash weights.
 ProgressPanel = 2, 1
